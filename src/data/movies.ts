@@ -74,6 +74,7 @@ export const movies: Movie[] = [
     rating: '13+',
     cast: ['Rio Dewanto', 'Sheila Dara', 'Rachel Amanda'],
     director: 'Angga Dwimas Sasongko',
+    isTrending: true,
     isNewRelease: true,
     videoUrl: 'https://www.youtube.com/watch?v=iQBbkh6OX4o'
   },
