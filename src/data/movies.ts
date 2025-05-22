@@ -120,7 +120,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=a4uFVN-y5MI'
+    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
   },
   {
     id: '30',
