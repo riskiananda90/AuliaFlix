@@ -107,6 +107,21 @@ export const movies: Movie[] = [
     isClassic: true,
     videoUrl: 'https://www.youtube.com/watch?v=a4uFVN-y5MI'
   },
+    {
+    id: '8',
+    title: 'Pengkhianatan G30S/PKI',
+    description: 'Film sejarah yang menggambarkan peristiwa G30S/PKI dan dampaknya terhadap bangsa Indonesia.',
+    thumbnailUrl: 'https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg',
+    coverUrl: 'https://images.pexels.com/photos/2873486/pexels-photo-2873486.jpeg',
+    year: 1984,
+    duration: '4j 31m',
+    genre: ['Sejarah', 'Drama'],
+    rating: '13+',
+    cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
+    director: 'Arifin C. Noer',
+    isClassic: true,
+    videoUrl: 'https://www.youtube.com/watch?v=a4uFVN-y5MI'
+  },
   {
     id: '30',
     title: 'Laskar Pelangi',

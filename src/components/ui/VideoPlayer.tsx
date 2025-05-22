@@ -121,6 +121,7 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({ poster, videoUrl }) => {
         style={{ position: 'absolute', top: 0, left: 0 }}
         onProgress={({ played }) => setProgress(played * 100)}
       />
+      
 
       <AnimatePresence>
         {(!isPlaying || showControls) && (
