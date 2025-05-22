@@ -60,6 +60,7 @@ export const movies: Movie[] = [
     cast: ['Marthino Lio', 'Ladya Cheryl', 'Kevin Ardilova'],
     director: 'Edwin',
     isTrending: true,
+    isNewRelease: true,
     videoUrl: 'https://www.youtube.com/watch?v=fqvWIaGo3Y4'
   },
   {
@@ -105,7 +106,8 @@ export const movies: Movie[] = [
     rating: '13+',
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
-    isClassic: true,
+    isTrending: true,
+    isNewRelease: true,
     videoUrl: 'https://www.youtube.com/watch?v=a4uFVN-y5MI'
   },
     {
@@ -120,7 +122,8 @@ export const movies: Movie[] = [
     rating: '13+',
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
-    isClassic: true,
+    isTrending: true,
+    isNewRelease: true,
     videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
   },
   {
@@ -135,7 +138,8 @@ export const movies: Movie[] = [
     rating: '13+',
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
-    isClassic: true,
+    isTrending: true,
+    isNewRelease: true,
     videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
   },
    {
@@ -150,7 +154,8 @@ export const movies: Movie[] = [
     rating: '13+',
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
-    isClassic: true,
+    isTrending: true,
+    isNewRelease: true,
     videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
   },
    {
