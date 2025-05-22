@@ -126,7 +126,7 @@ export const movies: Movie[] = [
     id: '9',
     title: 'Mangkujiwo2',
     description: 'Film "Mangkujiwo 2" adalah film horor Indonesia yang merupakan sekuel dari film "Mangkujiwo" (2020).',
-    thumbnailUrl: '/poster/manku2.jpg',
+    thumbnailUrl: '/poster/mangku2.jpg',
     coverUrl: '/poster/mangku2.jpg',
     year: 1984,
     duration: '4j 31m',
