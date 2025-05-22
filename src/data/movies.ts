@@ -5,8 +5,8 @@ export const movies: Movie[] = [
     id: '1',
     title: 'KKN di Desa Penari',
     description: 'Enam mahasiswa yang melaksanakan KKN di sebuah desa terpencil menghadapi teror mistis yang mengancam nyawa mereka.',
-    thumbnailUrl: 'https://images.pexels.com/photos/2832034/pexels-photo-2832034.jpeg',
-    coverUrl: 'https://images.pexels.com/photos/2832034/pexels-photo-2832034.jpeg',
+    thumbnailUrl: 'https://images.search.yahoo.com/images/view;_ylt=AwrOrK1sli5oPW0N1gaJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzRiNTM4ZjIyZWIwYTEwY2QwZjlhYTc4M2E3N2I0YzBhBGdwb3MDMgRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dposter%2Bkkn%2Bdesa%2Bpenari%26type%3DE210US885G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D2&w=474&h=669&imgurl=blue.kumparan.com%2Fimage%2Fupload%2Ffl_progressive%2Cfl_lossy%2Cc_fill%2Cq_auto%3Abest%2Cw_640%2Fv1584063713%2Fqxn8zf5vwzycnaw3ateo.jpg&rurl=https%3A%2F%2Fkumparan.com%2Fkumparanhits%2Ffilm-kkn-di-desa-penari-tayang-30-april-2022-di-bioskop-1xtPEnITUW1&size=90KB&p=poster+kkn+desa+penari&oid=4b538f22eb0a10cd0f9aa783a77b4c0a&fr2=piv-web&fr=mcafee&tt=Film+KKN+di+Desa+Penari+Tayang+30+April+2022+di+Bioskop+%7C+kumparan.com&b=0&ni=21&no=2&ts=&tab=organic&sigr=6L9aITvDFYRU&sigb=K7z_j2c3X4Z6&sigi=FtOg4CO6Vt1B&sigt=mFR5jFG9gQjW&.crumb=N5.Fwvk3G9S&fr=mcafee&fr2=piv-web&type=E210US885G0',
+    coverUrl: 'https://images.search.yahoo.com/images/view;_ylt=AwrOrK1sli5oPW0N1gaJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzRiNTM4ZjIyZWIwYTEwY2QwZjlhYTc4M2E3N2I0YzBhBGdwb3MDMgRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dposter%2Bkkn%2Bdesa%2Bpenari%26type%3DE210US885G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D2&w=474&h=669&imgurl=blue.kumparan.com%2Fimage%2Fupload%2Ffl_progressive%2Cfl_lossy%2Cc_fill%2Cq_auto%3Abest%2Cw_640%2Fv1584063713%2Fqxn8zf5vwzycnaw3ateo.jpg&rurl=https%3A%2F%2Fkumparan.com%2Fkumparanhits%2Ffilm-kkn-di-desa-penari-tayang-30-april-2022-di-bioskop-1xtPEnITUW1&size=90KB&p=poster+kkn+desa+penari&oid=4b538f22eb0a10cd0f9aa783a77b4c0a&fr2=piv-web&fr=mcafee&tt=Film+KKN+di+Desa+Penari+Tayang+30+April+2022+di+Bioskop+%7C+kumparan.com&b=0&ni=21&no=2&ts=&tab=organic&sigr=6L9aITvDFYRU&sigb=K7z_j2c3X4Z6&sigi=FtOg4CO6Vt1B&sigt=mFR5jFG9gQjW&.crumb=N5.Fwvk3G9S&fr=mcafee&fr2=piv-web&type=E210US885G0',
     year: 2022,
     duration: '2j 10m',
     genre: ['Horor', 'Misteri', 'Drama'],
@@ -75,7 +75,7 @@ export const movies: Movie[] = [
     cast: ['Rio Dewanto', 'Sheila Dara', 'Rachel Amanda'],
     director: 'Angga Dwimas Sasongko',
     isNewRelease: true,
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4'
+    videoUrl: 'https://www.youtube.com/watch?v=iQBbkh6OX4o'
   },
   {
     id: '6',
