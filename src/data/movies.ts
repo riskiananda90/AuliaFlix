@@ -284,7 +284,7 @@ export const movies: Movie[] = [
     rating: '13+',
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
-    isClassic: true,
+    isTrending: true,
     videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
   },
    {
