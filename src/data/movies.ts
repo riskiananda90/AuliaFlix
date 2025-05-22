@@ -45,7 +45,7 @@ export const movies: Movie[] = [
     cast: ['Tara Basro', 'Endy Arfian', 'Nasar Annuz'],
     director: 'Joko Anwar',
     isNewRelease: true,
-    videoUrl: 'https://www.youtube.com/watch?v=93c842501LM'
+    videoUrl: 'https://www.youtube.com/watch?v=FC5OyHbkLsI'
   },
   {
     id: '4',
@@ -61,7 +61,7 @@ export const movies: Movie[] = [
     director: 'Edwin',
     isTrending: true,
     isNewRelease: true,
-    videoUrl: 'https://www.youtube.com/watch?v=fqvWIaGo3Y4'
+    videoUrl: 'https://www.youtube.com/watch?v=bz1J6kIajIE'
   },
   {
     id: '5',
@@ -77,7 +77,7 @@ export const movies: Movie[] = [
     director: 'Angga Dwimas Sasongko',
     isTrending: true,
     isNewRelease: true,
-    videoUrl: 'https://www.youtube.com/watch?v=iQBbkh6OX4o'
+    videoUrl: 'https://www.youtube.com/watch?v=MvyWOoXlQ8c'
   },
   {
     id: '6',
@@ -92,7 +92,7 @@ export const movies: Movie[] = [
     cast: ['Iqbaal Ramadhan', 'Nirina Zubir', 'Asri Welas'],
     director: 'Lucky Kuswandi',
     isTrending: true,
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4'
+    videoUrl: 'https://www.youtube.com/watch?v=lFppnf5gI74'
   },
   {
     id: '7',
@@ -108,7 +108,7 @@ export const movies: Movie[] = [
     director: 'Arifin C. Noer',
     isTrending: true,
     isNewRelease: true,
-    videoUrl: 'https://www.youtube.com/watch?v=a4uFVN-y5MI'
+    videoUrl: 'https://www.youtube.com/watch?v=R5bdyXN7Jp8'
   },
     {
     id: '8',
@@ -124,7 +124,7 @@ export const movies: Movie[] = [
     director: 'Arifin C. Noer',
     isTrending: true,
     isNewRelease: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s&t=4459s'
   },
   {
     id: '9',
@@ -140,7 +140,7 @@ export const movies: Movie[] = [
     director: 'Arifin C. Noer',
     isTrending: true,
     isNewRelease: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=sOu48CA9qsA'
   },
    {
     id: '10',
@@ -156,7 +156,7 @@ export const movies: Movie[] = [
     director: 'Arifin C. Noer',
     isTrending: true,
     isNewRelease: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=uFGE0hMw2OQ'
   },
    {
     id: '11',
@@ -171,7 +171,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=f-Vr-FTMZt0'
   },
    {
     id: '12',
@@ -186,7 +186,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=h4NJKu1lliA'
   },
    {
     id: '13',
@@ -201,7 +201,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=_CG7QUYPxDo'
   },
    {
     id: '14',
@@ -216,7 +216,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=uPiVj91T_hM'
   },
    {
     id: '15',
@@ -231,7 +231,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=jnHSRoQ8fzo'
   },
    {
     id: '16',
@@ -246,7 +246,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=hWmVTybZHiA'
   },
    {
     id: '17',
@@ -261,7 +261,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=9PYtopZsglM'
   },
    {
     id: '18',
@@ -276,7 +276,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=RD1dsvhC6Jw'
   },
    {
     id: '19',
@@ -291,7 +291,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isTrending: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=vrAKtRZLfHg'
   },
    {
     id: '20',
@@ -306,7 +306,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=9D_8C7YMXYI'
   },
    {
     id: '21',
@@ -321,7 +321,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=ed1Cs1j2ig0'
   },
    {
     id: '22',
@@ -336,7 +336,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=y6vbTC2_cks'
   },
    {
     id: '23',
@@ -351,7 +351,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=AlWXuVGXRyo'
   },
    {
     id: '24',
@@ -366,7 +366,7 @@ export const movies: Movie[] = [
     cast: ['Amoroso Katamsi', 'Umar Kayam', 'Sofia W.D.'],
     director: 'Arifin C. Noer',
     isClassic: true,
-    videoUrl: 'https://www.youtube.com/watch?v=V8VOaFWYu3s'
+    videoUrl: 'https://www.youtube.com/watch?v=xP34WVXLU2U'
   },
   {
     id: '30',
@@ -381,7 +381,7 @@ export const movies: Movie[] = [
     cast: ['Cut Mini', 'Ikranagara', 'Lukman Sardi'],
     director: 'Riri Riza',
     isClassic: true,
-    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4'
+    videoUrl: 'https://www.youtube.com/watch?v=nK9QqzWQDVE'
   }
 ];
 
